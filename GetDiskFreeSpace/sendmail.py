@@ -29,3 +29,4 @@ def SendMail(MailText):
         print("send success")
     except Exception:  # 如果 try 中的语句没有执行，则会执行下面的 ret=False
         print("error")
+        #
