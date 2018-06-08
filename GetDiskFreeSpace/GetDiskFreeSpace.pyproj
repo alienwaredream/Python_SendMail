@@ -31,6 +31,12 @@
     <Compile Include="sendmail.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="sendmail_aliyun_demo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SMTP_sendmail_demo.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

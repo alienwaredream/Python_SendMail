@@ -1,7 +1,6 @@
+#!/usr/bin/env python3
 
-  
 #import  
-  
 import os,sys  
 import time  
 import wmi
